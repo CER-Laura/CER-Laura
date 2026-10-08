@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">I'm Laura Dominguez from Barcelona<br><br>- 🔭 I’m working as a teacher<br>- 📚 I'm currently learning TailWind 4.0<br>- ⚡ Currently working on Centre d'Estudis Roca</p>
+<p align="left">I'm Laura Dominguez from Barcelona<br><br>- 🔭 I’m working as a teacher<br>- 📚 I'm currently learning Astro<br>- ⚡ Currently working on Centre d'Estudis Roca</p>
 
 ###
 
